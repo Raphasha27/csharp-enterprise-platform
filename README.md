@@ -20,8 +20,10 @@ dotnet run --project src/EnterprisePlatform.API
 
 MIT License
 
-
 ## Live Demo
-- **GitHub Pages:** [https://raphasha27.github.io/csharp-enterprise-platform](https://raphasha27.github.io/csharp-enterprise-platform)
-- **Docker Hub:** [docker pull raphasha27/csharp-enterprise-platform](https://hub.docker.com/r/raphasha27/csharp-enterprise-platform)
+
+| Platform | URL |
+|----------|-----|
+| GitHub Pages | [https://raphasha27.github.io/csharp-enterprise-platform](https://raphasha27.github.io/csharp-enterprise-platform) |
+| Docker Hub | [docker pull raphasha27/csharp-enterprise-platform](https://hub.docker.com/r/raphasha27/csharp-enterprise-platform) |
 
